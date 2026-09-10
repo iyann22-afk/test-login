@@ -139,7 +139,16 @@ Dibuat sebagai tugas mata kuliah Pemrograman Web.
 - PHP >= 8.2
 - Composer
 - Node.js & NPM
-- MySQL (XAMPP / Laragon)
+- MySQL (XAMPP)
+- XAMPP harus dalam keadaan berjalan (Apache & MySQL Running)
+
+ Jalankan XAMPP
+- Buka **XAMPP Control Panel**
+- Klik **Start** pada **Apache**
+- Klik **Start** pada **MySQL**
+- Pastikan keduanya berstatus **Running** (hijau)
+- Buka **phpMyAdmin** di `http://localhost/phpmyadmin`
+- Buat database baru dengan nama: `test-login`
 
 ## Cara Menjalankan Project
 
